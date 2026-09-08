@@ -314,7 +314,7 @@ LLM_PROVIDER_REGISTRY = (
         "nvidia",
         "NVIDIA NIM",
         api_key_url="https://build.nvidia.com/",
-        default_model="meta/llama-3.3-70b-instruct",
+        default_model="meta/llama-3.2-11b-vision-instruct",
         default_base_url="https://integrate.api.nvidia.com/v1",
     ),
     # 聚合与统一接入平台

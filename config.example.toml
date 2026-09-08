@@ -303,6 +303,12 @@ mimo_api_key = ""
 mimo_base_url = ""
 mimo_model_name = ""
 
+# NVIDIA NIM (OpenAI-compatible)
+# API key: https://build.nvidia.com/
+nvidia_api_key = ""
+nvidia_base_url = ""
+nvidia_model_name = ""
+
 # Cloudflare AI Gateway. The token requires AI Gateway Read/Edit and Workers AI
 # Read permissions. Leave gateway_id empty to use the Registry default.
 # Dashboard: https://dash.cloudflare.com/

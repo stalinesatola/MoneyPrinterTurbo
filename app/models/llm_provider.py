@@ -310,6 +310,13 @@ LLM_PROVIDER_REGISTRY = (
         default_model="mimo-v2.5-pro",
         default_base_url="https://api.xiaomimimo.com/v1",
     ),
+    LLMProviderSpec(
+        "nvidia",
+        "NVIDIA NIM",
+        api_key_url="https://build.nvidia.com/",
+        default_model="meta/llama-3.3-70b-instruct",
+        default_base_url="https://integrate.api.nvidia.com/v1",
+    ),
     # 聚合与统一接入平台
     LLMProviderSpec(
         "shengsuanyun",

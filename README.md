@@ -41,7 +41,7 @@ cria as legendas e a música de fundo, e produz um vídeo curto em HD.
 
 - Gera ou reescreve **guiões multilingues** com IA, ou fornece um guião completo à mão
 - Suporta os principais fornecedores: Kimi / Moonshot, OpenAI, Anthropic Claude, Google Gemini, DeepSeek,
-  Alibaba Qwen, Azure OpenAI, ByteDance VolcEngine Ark, xAI Grok, MiniMax, Xiaomi MiMo
+  Alibaba Qwen, Azure OpenAI, ByteDance VolcEngine Ark, xAI Grok, MiniMax, Xiaomi MiMo, NVIDIA NIM
 - Liga-se também através de *gateways* compatíveis com OpenAI: OpenRouter, Ollama (local), OneAPI,
   LiteLLM, Groq, Cloudflare AI Gateway, ModelScope, entre outros
 

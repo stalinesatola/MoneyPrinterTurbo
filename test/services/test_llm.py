@@ -363,6 +363,7 @@ class TestLiteLLMProvider(unittest.TestCase):
                 "grok",
                 "minimax",
                 "mimo",
+                "nvidia",
                 "shengsuanyun",
                 "apimart",
                 "cloudflare",
